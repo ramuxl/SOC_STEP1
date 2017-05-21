@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER MY_AXI_AUDIO
+	OPTION supported_peripherals = (MY_AXI_AUDIO);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = MY_AXI_AUDIO;
+END DRIVER
