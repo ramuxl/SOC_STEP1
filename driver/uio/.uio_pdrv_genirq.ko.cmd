@@ -1,1 +1,0 @@
-cmd_/home/INTRA/chakal/workspace/project/driver/uio/uio_pdrv_genirq.ko := arm-xilinx-linux-gnueabi-ld -EL -r  -T /cad/digilent/scripts/module-common.lds --build-id  -o /home/INTRA/chakal/workspace/project/driver/uio/uio_pdrv_genirq.ko /home/INTRA/chakal/workspace/project/driver/uio/uio_pdrv_genirq.o /home/INTRA/chakal/workspace/project/driver/uio/uio_pdrv_genirq.mod.o
